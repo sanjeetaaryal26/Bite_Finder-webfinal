@@ -20,3 +20,7 @@
 - Description: Implemented frontend task for sprint 2  item 5.
 - Notes: Small UI/doc/update performed on 2026-03-01 10:16:26Z
 
+### Commit 6
+- Description: Implemented frontend task for sprint 2  item 6.
+- Notes: Small UI/doc/update performed on 2026-03-01 10:16:26Z
+
