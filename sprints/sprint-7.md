@@ -32,3 +32,7 @@
 - Description: Implemented frontend task for sprint 7  item 8.
 - Notes: Small UI/doc/update performed on 2026-03-01 10:16:45Z
 
+### Commit 9
+- Description: Implemented frontend task for sprint 7  item 9.
+- Notes: Small UI/doc/update performed on 2026-03-01 10:16:45Z
+
